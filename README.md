@@ -46,7 +46,7 @@ python -m pip install -r requirements.txt
 ## 目录结构
 
 ```text
-mp4Test/
+OnlineCourseCompression/
 ├─ convert_videos.py    # 主脚本
 ├─ requirements.txt     # Python 依赖
 ├─ input/               # 待转码的 MP4（可含子目录）
